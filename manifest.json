@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Beta - Made by @CyborgRowlet",
+        "name": "Ainu Translatation Pack",
+        "uuid": "4834d3cf-aaab-462e-88ff-2e732fa92322",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Beta - Made by CyborgRowlet",
+            "type": "resources",
+            "uuid": "b3dc6413-16ee-47e6-8ea9-c5cf46581e80",
+            "version": [0, 0, 1]
+        }
+    ]
+}
